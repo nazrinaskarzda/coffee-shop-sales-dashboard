@@ -2,7 +2,7 @@
 
 ## Dashboard haqqında
 
-Yanvar–iyun 2023 dövrünü əhatə edən satış məlumatları əsasında əsas KPI-lar, satış trendi, mağaza və məhsul performansı təhlil edilib.
+Yanvar - iyun 2023 dövrünü əhatə edən satış məlumatları əsasında əsas KPI-lar, satış trendi, mağaza və məhsul performansı təhlil edilib.
 
 Dashboard-a **Total Sales**, **Transactions**, **Units Sold**, **Average Transaction Value**, aylıq trend, satış heatmap-i və interaktiv filtrlər daxildir.
 
