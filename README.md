@@ -9,7 +9,7 @@ Dashboard-a **Total Sales**, **Transactions**, **Units Sold**, **Average Transac
 ## Əsas nəticələr
 
 * Ümumi satış **698,812**, əməliyyat sayı isə **149,116** olub.
-* Satışlar yanvardakı **81,678**-dən iyunda **166,486**-ya yüksəlib — təxminən **104% artım**.
+* Satışlar yanvardakı **81,678**-dən iyunda **166,486**-ya yüksəlib - təxminən **104% artım**.
 * Ən yüksək satış **Hell’s Kitchen** mağazasında qeydə alınıb: **236,511**.
 * Mağazaların nəticələri bir-birinə yaxındır və hər biri satışların təxminən üçdəbirini yaradır.
 * **Coffee** və **Tea** birlikdə ümumi satışın **66.7%-ni** təşkil edir.
