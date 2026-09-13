@@ -68,8 +68,8 @@ NULL dəyərlər, təkrarlanan qeydlər, mənfi qiymətlər və mənfi satış m
 
 ## Fayllar
 
-- [Məlumat dəstini aç](./Coffee_Shop_Sales_tableau_exam.xlsx)
-- [Tableau dashboard-unu aç](./Final_Project_Coffeeshop.twbx)
+- [Excel məlumat dəstini yüklə](https://github.com/nazrinaskarzda/coffee-shop-sales-dashboard/raw/refs/heads/main/Coffee_Shop_Sales_tableau_exam.xlsx)
+- [Tableau dashboard faylını yüklə](https://github.com/nazrinaskarzda/coffee-shop-sales-dashboard/raw/refs/heads/main/Final_Project_Coffeeshop.twbx)
 
 ## Dashboard görünüşü
 
